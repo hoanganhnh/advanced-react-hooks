@@ -474,6 +474,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "maheshjag",
+      "name": "MJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1705603?v=4",
+      "profile": "https://github.com/maheshjag",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SherylHohman",
+      "name": "Sheryl Hohman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8204778?v=4",
+      "profile": "https://stackoverflow.com/users/5411817/sherylhohman?tab=topactivity",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shahbaz17",
+      "name": "Mohammad Shahbaz Alam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6962565?v=4",
+      "profile": "http://mdsbzalam.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
